@@ -1,5 +1,5 @@
 {
-  "name": "backendgestorventas",
+  "name": "sprint2",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsonserver": "^0.1.6",
-    "nodemon": "^3.0.1"
+    "json-server": "^0.17.2",
+    "nodemon": "^2.0.20"
   }
 }
